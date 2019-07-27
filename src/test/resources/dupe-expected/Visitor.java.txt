@@ -2,7 +2,7 @@
 
 package dupe;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 import _2010._02.tyviseadus_1_10.Aktinimi;
 import _2010._02.tyviseadus_1_10.AlampunktType;
 import _2010._02.tyviseadus_1_10.AlgatusmargeType;

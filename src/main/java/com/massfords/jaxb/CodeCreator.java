@@ -7,8 +7,10 @@ import com.sun.codemodel.JPackage;
 import com.sun.tools.xjc.outline.ClassOutline;
 import com.sun.tools.xjc.outline.Outline;
 
-import javax.annotation.Generated;
 import java.util.Set;
+
+import javax.annotation.processing.Generated;
+
 
 /**
  * Base class for creating code. Pattern here is to run through the set of generated beans

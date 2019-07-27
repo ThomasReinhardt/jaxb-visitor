@@ -2,7 +2,7 @@
 
 package org.example.direct;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 import javax.xml.bind.JAXBElement;
 import extended.Parameter2 ;
 import extendedJaxbModel.Base;

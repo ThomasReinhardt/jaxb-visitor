@@ -2,7 +2,7 @@
 
 package ogc.visitor;
 
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 import javax.xml.bind.JAXBElement;
 import net.opengis.fes._2.AbstractIdType;
 import net.opengis.fes._2.AdditionalOperatorsType;

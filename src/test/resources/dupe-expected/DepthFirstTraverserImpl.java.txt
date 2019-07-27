@@ -3,7 +3,7 @@
 package dupe;
 
 import java.io.Serializable;
-import javax.annotation.Generated;
+import javax.annotation.processing.Generated;
 import javax.xml.bind.JAXBElement;
 import _2010._02.tyviseadus_1_10.Aktinimi;
 import _2010._02.tyviseadus_1_10.AlampunktType;
